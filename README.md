@@ -25,7 +25,7 @@ Download
 --------
 
 Here is the last compiled version.
-[Download link](www.riflecompany.it/varies/Livestreamer%20Gui.exe)
+[Download link](http://www.riflecompany.it/varies/Livestreamer%20Gui.exe)
 
 
 Installing
