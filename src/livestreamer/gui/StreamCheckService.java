@@ -126,7 +126,7 @@ while (running) {
         constraints.fill = GridBagConstraints.BOTH;
         JLabel headingLabel = new JLabel("<HtMl>" + header);
         headingLabel.setSize(headingLabel.getPreferredSize());
-        ImageIcon imgThisImg = new ImageIcon(getClass().getResource(Variables.warningPopupImage)).getImage());
+        ImageIcon imgThisImg = new ImageIcon(getClass().getResource(Variables.warningPopupImage));
         headingLabel.setIcon(imgThisImg); // --- use image icon you want to be as heading image.
         headingLabel.setOpaque(false);
         frame.add(headingLabel, constraints);
