@@ -21,6 +21,13 @@ There are 3 mandatory software to have in order to run this Gui properly:
 * [Vlc Player] (http://www.videolan.org/vlc/#download) , or [Media Player Classic](http://mpc-hc.org/downloads/)
 
 
+Download
+--------
+
+Here is the last compiled version.
+[Download link](https://www.dropbox.com/s/74zgvzjfjjwc0bt/Livestreamer%20Gui.exe)
+
+
 Installing
 ----------
 
