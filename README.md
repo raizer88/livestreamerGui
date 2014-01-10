@@ -1,7 +1,9 @@
 Livestreamer GUI
 ============
-<div style="float: right"><img src="http://i.imgur.com/sirCxBB.png" /></div>
- 
+
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    ![Screenshot](http://i.imgur.com/sirCxBB.png)
+</div> 
 
 Livestreamer is CLI program that extracts streams from various services and pipes them into
 a video player of choice. 
