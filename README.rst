@@ -29,11 +29,11 @@ Then you can run Livestreamer Gui.
 
 Features
 -----
-![Screenshot] (http://i.imgur.com/iDfqkIw.jpg)
- 
-![Screenshot] (http://i.imgur.com/lW27YbP.jpg)
+http://i.imgur.com/iDfqkIw.jpg
 
-![Screenshot] (http://i.imgur.com/u2Wzdfg.jpg)
+![Screenshot](http://i.imgur.com/lW27YbP.jpg)
+
+![Screenshot](http://i.imgur.com/u2Wzdfg.jpg)
 
 Related software
 ----------------
