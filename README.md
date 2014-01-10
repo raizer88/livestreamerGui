@@ -31,7 +31,7 @@ Features
 -----
 http://i.imgur.com/iDfqkIw.jpg
 
-![Screenshot](http://i.imgur.com/lW27YbP.jpg)
+![jjj](https://raw.github.com/raizer88/livestreamerGui/blob/master/src/livestreamer/gui/Image/network_connected.png)
 
 ![Screenshot](http://i.imgur.com/u2Wzdfg.jpg)
 
