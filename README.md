@@ -12,16 +12,15 @@ Mandatory
 There are 3 mandatory software to have in order to run this Gui properly:
 
 
-* `Livestreamer version 1.7.2 <https://github.com/chrippa/livestreamer/blob/develop/win32/livestreamer-win32-installer.nsi>`_,
-* `Java RE (at least 1.6, 1.7 suggested) <http://www.oracle.com/technetwork/java/javase/downloads/java-se-jre-7-download-432155.html>`_,
-* `Vlc Player <http://www.videolan.org/vlc/#download>`_ , or `Media Player Classic <http://mpc-hc.org/downloads/>`_
+* [Livestreamer version 1.7.2](https://github.com/chrippa/livestreamer/blob/develop/win32/livestreamer-win32-installer.nsi),
+* [Java RE (at least 1.6, 1.7 suggested)] (http://www.oracle.com/technetwork/java/javase/downloads/java-se-jre-7-download-432155.html),
+* [Vlc Player] (http://www.videolan.org/vlc/#download) , or [Media Player Classic](http://mpc-hc.org/downloads/)
 
 
 Installing
 ----------
 
-First install VLC player or MPC Player.
-After that install Livestreamer 1.7.2.
+First install VLC player or MPC Player, after them install Livestreamer 1.7.2.
 
 Then you can run Livestreamer Gui.
 
@@ -29,16 +28,26 @@ Then you can run Livestreamer Gui.
 
 Features
 -----
-http://i.imgur.com/iDfqkIw.jpg
+This app allow to track your favourite streamer. 
 
-![jjj](https://raw.github.com/raizer88/livestreamerGui/blob/master/src/livestreamer/gui/Image/network_connected.png)
+After a certain amount of time (you can choose when) the application check if the streamer is online/offline.
+If the streamer switch his status you can see a notification "Steam like".
 
-![Screenshot](http://i.imgur.com/u2Wzdfg.jpg)
+![Screenshot](http://i.imgur.com/ciQhg2A.jpg)
 
-Related software
-----------------
+
+
+Screenshot
+-----
+
+![Screenshot](http://i.imgur.com/iDfqkIw.jpg)
+
+![Screenshot](http://i.imgur.com/gK3Oqil.jpg)
+
+![Screenshot](http://i.imgur.com/zg5HX8n.jpg)
+
 
 
 Contributing
 ------------
-
+If you have suggestion or you need help mail me @ raizer.software@gmail.com
