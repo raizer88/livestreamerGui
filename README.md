@@ -31,6 +31,8 @@ Here is the last compiled version.
 Installing
 ----------
 
+http://www.youtube.com/watch?v=y0Sb4sLIHfs
+
 First install VLC player or MPC Player, after them install Livestreamer 1.7.2.
 
 Then you can run Livestreamer Gui.
