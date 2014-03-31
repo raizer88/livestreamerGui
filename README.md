@@ -16,7 +16,7 @@ Mandatory
 There are 3 mandatory software to have in order to run this Gui properly:
 
 
-* [Livestreamer version 1.7.2](https://github.com/chrippa/livestreamer/releases/download/v1.7.2/livestreamer-v1.7.2-win32-setup.exe),
+* [Livestreamer Last version](https://github.com/chrippa/livestreamer/releases),
 * [Java RE (at least 1.6, 1.7 suggested)] (http://www.oracle.com/technetwork/java/javase/downloads/java-se-jre-7-download-432155.html),
 * [Vlc Player] (http://www.videolan.org/vlc/#download) , or [Media Player Classic](http://mpc-hc.org/downloads/)
 
